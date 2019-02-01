@@ -32,6 +32,7 @@ Acknowledgement
 ---
 Implementation is hugely borrowed from
 1. https://github.com/martinarjovsky/WassersteinGAN
-2. https://github.com/LynnHo/WGAN-GP-DRAGAN-Celeba-Pytorch
+2. https://github.com/igul222/improved_wgan_training
 3. https://github.com/bioinf-jku/TTUR
-4. https://github.com/tensorflow/tensor2tensor
+4. https://github.com/LynnHo/WGAN-GP-DRAGAN-Celeba-Pytorch
+5. https://github.com/tensorflow/tensor2tensor

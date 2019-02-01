@@ -112,5 +112,4 @@ venv.bak/
 *.mp4
 *.pth
 .vscode
-pilot_test/gen/checkpoint/
 **.gz
